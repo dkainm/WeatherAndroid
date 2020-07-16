@@ -9,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        weatherTextView.text = "Weather in Odessa"
     }
 }
